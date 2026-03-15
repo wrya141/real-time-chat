@@ -9,7 +9,7 @@ function getBaseUrl() {
 
   // server (SSR)
   if (process.env.VERCEL_URL) {
-    return `https://${process.env.VERCEL_URL}/api`;
+    return `https://${process.env.VERCEL_URL}`;
   }
 
   // local development
