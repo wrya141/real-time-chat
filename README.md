@@ -1,1 +1,2 @@
 so after cloning you must do a notmal npm i then only thing that you need to is to usse https://console.upstash.com/redis database you can make a free one and put the env stuff in an .env file and the rest is magic
+ this is a private chate between 2 people and 2 only for a certin amount of time  complex on the surfuce but not that hard when you dive deep into it nice project overall  and i stole a shit ton lot of ideas 
