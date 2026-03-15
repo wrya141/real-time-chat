@@ -4,7 +4,7 @@ import type { App } from "../app/api/[[...slugs]]/route";
 function getBaseUrl() {
   // browser → same origin
   if (typeof window !== "undefined") {
-    return `${window.location.origin}/api`;
+    return `${window.location.origin}`;
   }
 
   // server (SSR)
